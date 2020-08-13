@@ -6,7 +6,7 @@ using System.Reflection;
 
 #if UNITY_EDITOR
 using UnityEditor;
-using TEDinc.Utils.MathExt;
+using TEDinc.Utils.MathExt.Rand;
 #endif
 
 namespace TEDinc.Utils.PersistantSave

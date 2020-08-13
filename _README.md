@@ -2,7 +2,7 @@
 Require:
 - TED-inc/UnityUtils-Encryption
 - TED-inc/UnityUtils-MathExt
-- TED-inc/UnityUtils-ComponentsBase
+- TED-inc/UnityUtils-Components
 
 Using:
 1) Add "PersistantSaveInstance" component to DontDestoyOnLoad
