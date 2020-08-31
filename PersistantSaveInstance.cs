@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿#pragma warning disable 0649 //dissable unnusign warnings
+using System.Collections.Generic;
 using UnityEngine;
 using TEDinc.Utils.Components;
 using Object = UnityEngine.Object;
