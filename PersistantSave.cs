@@ -31,7 +31,10 @@ namespace TEDinc.Utils.PersistantSave
 
                 CheckDirectories();
                 if (!LoadObject())
+                {
                     SaveObjToPersistant(i);
+                    LoadObject();
+                }
 
 
 
